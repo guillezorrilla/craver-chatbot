@@ -321,7 +321,6 @@ export const craverData = `
 <url>
 <loc>https://craverapp.com/knowledge/pos-integrations</loc>
 <desc>POS Integrations</desc>
-</url>
 <content>
 
     <section>
@@ -408,11 +407,11 @@ export const craverData = `
     </section>
 
 </content>
+</url>
 
 <url>
 <loc>https://craverapp.com/knowledge/craver-web-ordering</loc>
 <desc>Craver Web Ordering</desc>
-</url>
 <content>
     <section>
     <url>https://craverapp.com/knowledge/how-to-setup-a-sub-domain-for-craver-web-ordering</url>
@@ -437,6 +436,7 @@ export const craverData = `
     </section>
 
 </content>
+</url>
 
 </url>
 `;
